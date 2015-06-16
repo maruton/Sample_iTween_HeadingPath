@@ -12,8 +12,8 @@ Use 'iTween Visual Editor' to make iTween path.
 
 ## How to use
 
-See blog: Under preparations  
-http://dennou-note.blogspot.jp/  
+See blog: iTweenパス上を前を向きながら移動するサンプル   
+http://dennou-note.blogspot.jp/2015/06/itween.html  
 
 
 ## License
